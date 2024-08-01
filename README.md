@@ -1,3 +1,3 @@
 ## E-Commerce - Clothe's Store
-vist web site
-[click here](https://online-cloth.netlify.app/#)
+Visit Web Site
+[Click here](https://online-cloth.netlify.app)
